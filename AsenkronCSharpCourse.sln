@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsenkronCSharpCourse", "Ase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{CCAC1F61-A9AD-4FB1-9B0A-8DCE71A2CB96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCAC1F61-A9AD-4FB1-9B0A-8DCE71A2CB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAC1F61-A9AD-4FB1-9B0A-8DCE71A2CB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAC1F61-A9AD-4FB1-9B0A-8DCE71A2CB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAC1F61-A9AD-4FB1-9B0A-8DCE71A2CB96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
