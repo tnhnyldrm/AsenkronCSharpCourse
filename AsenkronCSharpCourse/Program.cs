@@ -24,4 +24,4 @@ Console.WriteLine(Days.Friday);
 enum Days
 {
     Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
-}
+} 
