@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsenkronCSharpCourse", "AsenkronCSharpCourse\AsenkronCSharpCourse.csproj", "{64A83C9E-35F8-4DD3-8EFB-C3928505ABE5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "..\CSharpHomework\Conditionals\Conditionals.csproj", "{1EF3E68D-4ACA-4CB8-B601-E70D276C79CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{64A83C9E-35F8-4DD3-8EFB-C3928505ABE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64A83C9E-35F8-4DD3-8EFB-C3928505ABE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64A83C9E-35F8-4DD3-8EFB-C3928505ABE5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1EF3E68D-4ACA-4CB8-B601-E70D276C79CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1EF3E68D-4ACA-4CB8-B601-E70D276C79CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1EF3E68D-4ACA-4CB8-B601-E70D276C79CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1EF3E68D-4ACA-4CB8-B601-E70D276C79CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FA2B6C-FBF5-4BAD-AC89-56C9E2F1DDE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
